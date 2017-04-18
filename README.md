@@ -23,6 +23,7 @@ To create an email segment to fit your own needs:
 1. Repeat steps 1 and 2 from above. 
 2. Select one of the conditions based on default contact fields (_**First Name**_, _**Last Name**_, _**Email**_, _**Date Added**_, _**Last Updated**_, _**Last Emailed**_, _**Last Clicked**_, _**Last Opened**_, _**Engagement: Opens**_, or _**Engagement: Clicks**_), or select a condition based on one of your custom fields.
 3. Based on the selected condition, choose operators to narrow your segment further. Different operators show up based on the condition you select.
+
   - **Text field operators** - Preset text field conditions include First Name, Last Name, and email. Custom text field conditions could include things like _**Location**_, _**Region**_, _**Past Items Ordered**_, and _**Order Frequency**_. Frequent text operators are _**is**_, _**is not**_, and _**contains word**_. Examples:
   
   > **Location is Denver** – target people in a specific location
@@ -31,7 +32,7 @@ To create an email segment to fit your own needs:
   
   > **Past Items Ordered contains word dumbbell** – target people who have bought a specific item before
   
-  - _**Date field operators**_ – Preset date fields include _**Date Added**_, _**Last Updated**_, _**Last Emailed**_, _**Last Clicked**_, _**Last Opened**_. Custom date fields could include _**Last Ordered**_. Frequent date operators are _**is** **_, _**is not**_, _**is before**_, _**is after**_, and _**is within**_. Examples:
+  - **Date field operators** – Preset date fields include _**Date Added**_, _**Last Updated**_, _**Last Emailed**_, _**Last Clicked**_, _**Last Opened**_. Custom date fields could include _**Last Ordered**_. Frequent date operators are _**is** **_, _**is not**_, _**is before**_, _**is after**_, and _**is within**_. Examples:
   
   > **Last Opened is before 01/01/2017** – target people who haven’t looked at your emails in a while
   
