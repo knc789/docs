@@ -53,7 +53,6 @@ To create an email segment to fit your own needs:
    <li>**Engagement: Clicks Clicked** – try to lure people who are not clicking in  your previous emails, or reward individuals who are frequent clickers</li>
    </ul>
 4. Optionally, select additional conditions to add to the segment. As you add conditions, you will be able to select _**AND**_ or _**OR**_ as options, where _**AND**_ indicates both conditions are required and _**OR**_ indicates either condition works.
-
 5. Click **Save**.
 
 > ### You can add up to 15 different conditions per segment.
