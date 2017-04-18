@@ -11,7 +11,7 @@ Set up [custom fields](https://sendgrid.com/docs/User_Guide/Marketing_Campaigns/
 
 To set up a segment to try to lure back customers who have been active in the past, but haven’t interacted with an Email Marketing Campaign lately:
 
-1. In [Contacts](https://sendgrid.com/marketing_campaigns/contacts), click the **Add List or Segment** button, and select the **New Segment** option. [![Add a list or segment](https://giphy.com/gifs/FYEG95biIwIY8/)](https://giphy.com/gifs/FYEG95biIwIY8/ "Add a list or segment]")
+1. In [Contacts](https://sendgrid.com/marketing_campaigns/contacts), click the **Add List or Segment** button, and select the **New Segment** option. <iframe src="//giphy.com/embed/FYEG95biIwIY8" width="480" height="228" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/FYEG95biIwIY8">via GIPHY</a></p>(https://giphy.com/gifs/FYEG95biIwIY8/ "Add a list or segment]")
 2. Select the **Segmentation** tab. From the first drop-down, select an existing list of contacts to segment, and in the second field, give your new segment a name.
 3. Choose the condition: _**Last Opened**_ and the criteria: _**is before**_, and select a date that you want to use as your base for customers who haven’t interacted in a while.
 4. Click **Save**.
