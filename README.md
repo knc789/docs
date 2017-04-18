@@ -30,8 +30,6 @@ To create an email segment to fit your own needs:
   
    > **Location is Denver** – target people in a specific location
   
-   > **Order Frequency is not often** – target people with different order frequency
-  
    > **Past Items Ordered contains word dumbbell** – target people who have bought a specific item before
   
    > **Last Opened is before 01/01/2017** – target people who haven’t looked at your emails in a while
@@ -41,11 +39,6 @@ To create an email segment to fit your own needs:
    > **Age < 30** – target people who are a particular age, or older or younger than a specific age
   
    > **Amount spent > 500** – target low or high spenders
-  
-   > **Number of Orders < 100** – target people with different past order thresholds 
-   
-   > **Engagement: Opens Not Opened** – try to lure people who are not opening previous emails, or reward individuals who are opening previous emails
-   
    > **Engagement: Clicks Clicked** – try to lure people who are not clicking in  your previous emails, or reward individuals who are frequent clickers
 4. Optionally, select additional conditions to add to the segment. As you add conditions, you will be able to select _**AND**_ or _**OR**_ as options, where _**AND**_ indicates both conditions are required and _**OR**_ indicates either condition works.
 5. Click **Save**.
