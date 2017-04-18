@@ -20,9 +20,9 @@ To set up a segment to try to lure back customers who have been active in the pa
 
 To create an email segment to fit your own needs:
 
-1) Repeat steps 1 and 2 from above. 
-2) Select one of the conditions based on default contact fields (_**First Name**_, _**Last Name**_, _**Email**_, _**Date Added**_, _**Last Updated**_, _**Last Emailed**_, _**Last Clicked**_, _**Last Opened**_, _**Engagement: Opens**_, or _**Engagement: Clicks**_), or select a condition based on one of your custom fields.
-3) Based on the selected condition, choose operators to narrow your segment further. Different operators show up based on the condition you select.
+1. Repeat steps 1 and 2 from above. 
+2. Select one of the conditions based on default contact fields (_**First Name**_, _**Last Name**_, _**Email**_, _**Date Added**_, _**Last Updated**_, _**Last Emailed**_, _**Last Clicked**_, _**Last Opened**_, _**Engagement: Opens**_, or _**Engagement: Clicks**_), or select a condition based on one of your custom fields.
+3. Based on the selected condition, choose operators to narrow your segment further. Different operators show up based on the condition you select.
   - **Text field operators** - Preset text field conditions include First Name, Last Name, and email. Custom text field conditions could include things like _**Location**_, _**Region**_, _**Past Items Ordered**_, and _**Order Frequency**_. Frequent text operators are _**is**_, _**is not**_, and _**contains word**_. Examples:
   
    > **Location is Denver** – target people in a specific location
@@ -50,8 +50,7 @@ To create an email segment to fit your own needs:
    > **Engagement: Opens Not Opened** – try to lure people who are not opening previous emails, or reward individuals who are opening previous emails
    
    > **Engagement: Clicks Clicked** – try to lure people who are not clicking in  your previous emails, or reward individuals who are frequent clickers
-
-4) Optionally, select additional conditions to add to the segment. As you add conditions, you will be able to select _**AND**_ or _**OR**_ as options, where _**AND**_ indicates both conditions are required and _**OR**_ indicates either condition works.
-5) Click **Save**.
+4. Optionally, select additional conditions to add to the segment. As you add conditions, you will be able to select _**AND**_ or _**OR**_ as options, where _**AND**_ indicates both conditions are required and _**OR**_ indicates either condition works.
+5. Click **Save**.
 
 > ### You can add up to 15 different conditions per segment.
